@@ -1,7 +1,3 @@
-Here’s a complete `README.md` for **Pathscribe** that includes detailed instructions for getting started, installation, and usage. You can also use the content for your documentation site.
-
----
-
 # **Pathscribe**
 
 > **Seamlessly detect and generate API documentation from your codebase.**
@@ -175,7 +171,3 @@ Developed by **Lawrence Jefferson II** (Menoko OG - Original Geek) and contribut
 ## **Feedback**
 
 We’d love your feedback! If you encounter any issues or have feature requests, feel free to open a GitHub issue or submit a pull request.
-
----
-
-This `README.md` serves as both a **quick-start guide** and **project documentation**. Let me know if you need anything else!
